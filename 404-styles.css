@@ -1,20 +1,43 @@
+*{ 
+  text-align: center;
+}
+
+body{
+  background-color: rgb(230,255,255);
+}
+
 h1{
   color: red;
   font-size: 72px;
-  font-family: verdana;
+  font-family: courier;
 }
 
-p{
+p1{
   color: purple;
+  font-size: 18px;
+  font-family: georgia
 }
 
 h2{
-  color: pink;
+  color: rgb(255,128,0);
+  font-size: 36px;
+  font-family: courier;
 }
 
 button {
   background-color: lavender;
   color: navy;
   border-color: navy; 
+  height: 35px;
+  width: 90px;
+  font-size: 16px;
+  font-family: verdana;
+  text-align: center;
+  
+}
+
+p{
+  color: green;
+  font-family: georgia;
 }
 
