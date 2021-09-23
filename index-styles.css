@@ -1,1 +1,30 @@
+*{ 
+  text-align: center;
+}
 
+h1 {
+  color: rgb(217,121,80);
+}
+
+body {
+  background-color: rgb(9,51,0);
+}
+
+.button {
+  font: bold 15px Arial;
+  text-decoration: none;
+  background-color: rgb(205,247,250);
+  color: #333333;
+  padding: 5px 10px 5px 10px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  border-radius: 6px;
+  margin: 8px auto; 
+  display: inline-block;
+}
+
+p{
+  color: rgb(205,247,250)
+}
