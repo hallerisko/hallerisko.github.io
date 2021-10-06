@@ -3,41 +3,60 @@
 }
 
 body{
-  background-color: rgb(230,255,255);
+  background-color: #031E30;
+  background-image: url(https://cdn.glitch.me/36e20bcf-61a2-4445-a091-ddac5647997f%2FUntitled_Artwork.jpg?v=1633545488810);
+  background-size: contain;
+  right:0px; 
+  bottom:0px; 
+  z-index:2;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  overflow: hidden;
 }
 
 h1{
-  color: red;
+  color: #C72800;
   font-size: 72px;
-  font-family: courier;
+  font-family: sofachrome, sans-serif;
+  font-weight: 500;
+  font-style: italic;
 }
 
 p1{
-  color: purple;
-  font-size: 18px;
-  font-family: georgia
+  color: white;
+  font-size: 22px;
+  font-family: eurostile, sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 
 h2{
-  color: rgb(255,128,0);
+  color: #C72800;
   font-size: 36px;
-  font-family: courier;
+  font-family: sofachrome, sans-serif;
 }
 
 button {
-  background-color: lavender;
-  color: navy;
-  border-color: navy; 
+  background-color: #C72800;
+  color: white;
+  border-color: white; 
   height: 35px;
   width: 90px;
   font-size: 16px;
-  font-family: verdana;
+  font-family: eurostile, sans-serif;
   text-align: center;
   
 }
 
 p{
-  color: green;
+  color: #FFDD33;
   font-family: georgia;
+}
+
+footer{
+  position: absolute; 
+  bottom: 5vh;
+  width: 100%;
+  text-align: center;
 }
 
