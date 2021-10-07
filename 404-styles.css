@@ -4,8 +4,9 @@
 
 body{
   background-color: #031E30;
-  background-image: url(https://cdn.glitch.me/36e20bcf-61a2-4445-a091-ddac5647997f%2FUntitled_Artwork.jpg?v=1633545488810);
-  background-size: contain;
+  background-image: url(https://cdn.glitch.me/36e20bcf-61a2-4445-a091-ddac5647997f%2FSteve.jpg?v=1633566258919);
+  background-size: 30vw;
+  background-position: 5% 80%;
   right:0px; 
   bottom:0px; 
   z-index:2;
